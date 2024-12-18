@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # Task 15.
 for dir in /sbin /usr/sbin; do   
  for file in "$dir"/*; do
